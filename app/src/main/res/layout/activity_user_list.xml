@@ -29,6 +29,7 @@
         android:clickable="true"
         android:contentDescription="@string/fabDescription"
         android:focusable="true"
+        android:backgroundTint="@color/button"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:srcCompat="@drawable/ic_add" />
